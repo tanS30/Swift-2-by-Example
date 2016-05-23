@@ -13,7 +13,7 @@
 
 // Badge value to be display
 @property (nonatomic) NSString *badgeValue;
-// Badge background color
+
 @property (nonatomic) UIColor *badgeBGColor;
 // Badge text color
 @property (nonatomic) UIColor *badgeTextColor;
